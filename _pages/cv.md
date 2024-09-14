@@ -16,7 +16,7 @@ cv_pdf: CV_Sep2024_updated_JShi_v2.pdf
 
 <!-- {% include embedpdf.html source="https://drive.google.com/file/d/1adiSFK4NkFyDmMPDF3REhVIkQP5Wt_Gy/preview" width=100 height=800 %} -->
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CV_Sep2024_updated_JShi_v2.pdf" width="100%" 
+<object data="assets/pdf/CV_Sep2024_updated_JShi_v2.pdf" width="100%" 
 height="600" type="application/pdf"></object>
 
 
